@@ -5,9 +5,13 @@
 
 server
 
-In the project directory, you can run:
+In the Backend directory, you can run:
 
 ### `npm install`
+
+then 
+
+### `nodemon index.js`
 
 client
 
