@@ -3,8 +3,17 @@
 
 ## How To Run the app
 
+server
+
+In the project directory, you can run:
+
 ### `npm install`
 
+client
+
+In the project directory, you can run:
+
+### `npm install`
 
 In the project directory, you can run:
 
