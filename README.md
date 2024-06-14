@@ -5,11 +5,11 @@
 
 server
 
-In the Backend directory, you can run:
+In the Backend directory , you can run:
 
 ### `npm install`
 
-then 
+ Run the Server
 
 ### `nodemon index.js`
 
@@ -19,7 +19,7 @@ In the project directory, you can run:
 
 ### `npm install`
 
-In the project directory, you can run:
+Run the Development Server
 
 ### `npm start`
 
